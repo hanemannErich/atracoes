@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
   {
     "id": 1,
     "name": "Farol de Santa Marta",
@@ -90,3 +91,4 @@
     "website": "https://www.praiadorosa.imb.br/"
   }
   ]
+}
