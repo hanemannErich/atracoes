@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Farol de Santa Marta",
+    "address": {
+      "street": "Estrada Geral do Farol de Santa Marta",
+      "city": "Laguna",
+      "zipcode": "88790-000",
+      "geo": {
+        "lat": "-28.604208",
+        "lng": "-48.814777"
+      }
+    },
+    "phone": "Não Possui",
+    "website": "https://pt.wikipedia.org/wiki/Farol_de_Santa_Marta",
+    "ticketprice": "Aberto ao Público", 
+    "horario": "Indefinido",
+    "video": "https://www.youtube.com/watch?v=nUY5-_A-JSw"
+  },
+  {
+    "id": 2,
+    "name": "Mirante Serra do Rio do Rastro",
+    "address": {
+      "street": "SC-390, 1379, Bom Jardim da Serra - SC, 88640-000",
+      "city": "Bom Jardim da Serra",
+      "zipcode": "88640-000",
+      "geo": {
+        "lat": "-28.393635",
+        "lng": "-49.549718"
+      }
+    },
+    "phone": "Não Possui",
+    "website": "https://turismo.bomjardimdaserra.sc.gov.br/o-que-fazer/item/mirante-da-serra-do-rio-do-rastro",
+    "ticketprice": "Aberto ao Público",
+    "horario": "Aberto 24 horas",
+    "video": "https://www.youtube.com/watch?v=JKPeQnusDik"
+  },
+    
+  {
+    "id": 3,
+    "name": "Beto Carrero World",
+    "address": {
+      "street": "R. Inácio Francisco de Souza",
+      "city": "Penha",
+      "zipcode": "88385-000",
+      "geo": {
+        "lat": "-26.8027",
+        "lng": "-48.6127"
+      }
+    },
+    "phone": "+55 47 3261-2222",
+    "website": "https://www.betocarrero.com.br/",
+    "ticketprice": "A partir de 129,90",
+    "horario": "8h30 - 19h00",
+    "video": "https://www.youtube.com/watch?v=Ie0qAfexQsA"
+  },
+  {
+    "id": 4,
+    "name": "Ponte Hercílio Luz",
+    "address": {
+      "street": "Centro",
+      "city": "Florianópolis",
+      "zipcode": "88010-400",
+      "geo": {
+        "lat": "-27.594233",
+        "lng": "-48.567107"
+      }
+    },
+    "phone": "Não possui",
+    "website": "https://pt.wikipedia.org/wiki/Ponte_Herc%C3%ADlio_Luz",
+    "ticketprice": "Aberto ao Público",
+    "horario": "Aberto 24 horas",
+    "video": "https://www.youtube.com/watch?v=bfP77y0frXw"
+  },
+  {
+    "id": 5,
+    "name": "Praia do Rosa",
+    "address": {
+      "street": "Av. Porto Novo",
+      "city": "Imbituba",
+      "zipcode": "88780-000",
+      "geo": {
+        "lat": "-28.136035",
+        "lng": "-48.642761"
+      }
+    },
+    "phone": "Não possui",
+    "ticketprice": "Aberto ao Público",
+    "horario": "Aberto 24 horas",
+    "website": "https://www.praiadorosa.imb.br/"
+  }
+  ]
