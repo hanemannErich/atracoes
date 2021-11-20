@@ -5,7 +5,7 @@
     "name": "Farol de Santa Marta",
     "address": {
       "street": "Estrada Geral do Farol de Santa Marta",
-      "city": "Laguna",
+      "city": "Laguna -SC",
       "zipcode": "88790-000",
       "geo": {
         "lat": "-28.604208",
@@ -23,8 +23,8 @@
     "id": 2,
     "name": "Mirante Serra do Rio do Rastro",
     "address": {
-      "street": "SC-390, 1379, Bom Jardim da Serra - SC, 88640-000",
-      "city": "Bom Jardim da Serra",
+      "street": "SC-390, 1379",
+      "city": "Bom Jardim da Serra - SC",
       "zipcode": "88640-000",
       "geo": {
         "lat": "-28.393635",
@@ -43,8 +43,8 @@
     "id": 3,
     "name": "Beto Carrero World",
     "address": {
-      "street": "R. Inácio Francisco de Souza",
-      "city": "Penha",
+      "street": "R. Inácio Francisco de Souza, 1597",
+      "city": "Penha - SC",
       "zipcode": "88385-000",
       "geo": {
         "lat": "-26.8027",
@@ -63,7 +63,7 @@
     "name": "Ponte Hercílio Luz",
     "address": {
       "street": "Centro",
-      "city": "Florianópolis",
+      "city": "Florianópolis - SC",
       "zipcode": "88010-400",
       "geo": {
         "lat": "-27.594233",
@@ -82,7 +82,7 @@
     "name": "Praia do Rosa",
     "address": {
       "street": "Av. Porto Novo",
-      "city": "Imbituba",
+      "city": "Imbituba - SC",
       "zipcode": "88780-000",
       "geo": {
         "lat": "-28.136035",
