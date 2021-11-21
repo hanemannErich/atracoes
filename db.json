@@ -15,11 +15,12 @@
     "imagem": "https://www.laguna.sc.gov.br/uploads/656/imagens/2768445.jpg",
     "imagem2": "https://tnsul.com/wp-content/uploads/2016/11/Farol-de-Santa-Marta.jpg",
     "imagem3": "https://viagemeturismo.abril.com.br/wp-content/uploads/2016/12/farol-de-santa-marta-em-laguna-sc1.jpeg",
+    "video": "https://www.youtube.com/watch?v=GDAE83ytyCM",
+    "videoDrone": "https://www.youtube.com/watch?v=nUY5-_A-JSw",
     "phone": "+55 48 3644-2441 ",
     "website": "https://pt.wikipedia.org/wiki/Farol_de_Santa_Marta",
     "ticketprice": "Aberto ao Público", 
-    "horario": "Indefinido",
-    "video": "https://www.youtube.com/watch?v=nUY5-_A-JSw"
+    "horario": "Indefinido"
   },
   {
     "id": 2,
@@ -36,11 +37,12 @@
     "imagem": "https://wanderleioliveira.band.uol.com.br/wp-content/uploads/2019/09/IMG_4798.jpg",
     "imagem2": "https://cdnstatic8.com/viagensecaminhos.com/wp-content/uploads/2010/09/como-chegar-serra-do-rio-do-rastro.jpg",
     "imagem3": "https://cdnstatic8.com/viagensecaminhos.com/wp-content/uploads/2016/12/retrospectiva-2016-viagens-e-caminhos-serra-do-rio-do-rastro.jpg",
+    "video": "https://www.youtube.com/watch?v=JXfxK3KaK2k",
+    "videoDrone": "https://www.youtube.com/watch?v=JKPeQnusDik",
     "phone": "+55 49 3232-0454 ",
     "website": "https://turismo.bomjardimdaserra.sc.gov.br/o-que-fazer/item/mirante-da-serra-do-rio-do-rastro",
     "ticketprice": "Aberto ao Público",
-    "horario": "Aberto 24 horas",
-    "video": "https://www.youtube.com/watch?v=JKPeQnusDik"
+    "horario": "Aberto 24 horas"
   },
     
   {
@@ -58,11 +60,12 @@
     "imagem": "https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/tamanho-beto-carrero-world-1024x614.jpg",
     "imagem2": "https://destino.betocarrero.com.br/wp-content/uploads/2021/03/Star-Mountain-Beto-Carrero-World-2.jpg",
     "imagem3": "https://uploads.metropoles.com/wp-content/uploads/2021/01/15090725/Beto-carrero-World-600x400.jpg",
+    "video": "https://www.youtube.com/watch?v=Ie0qAfexQsA",
+    "videoDrone": "https://www.youtube.com/watch?v=UA9BNZZLesU",
     "phone": "+55 47 3261-2222",
     "website": "https://www.betocarrero.com.br/",
     "ticketprice": "A partir de 129,90",
-    "horario": "8h30 - 19h00",
-    "video": "https://www.youtube.com/watch?v=Ie0qAfexQsA"
+    "horario": "8h30 - 19h00"
   },
   {
     "id": 4,
@@ -79,11 +82,12 @@
     "imagem": "https://www.correiosc.com.br/wp-content/uploads/2021/01/ponte-hercilio-luz-horario-de-trafego-florianopolis-lucas-cervenka-csc.jpg",
     "imagem2": "https://www.sc.gov.br/images/joomgallery/details/setoriais_6457/ponte_hercilio_luz_95_anos_20210513_1160242365.jpg",
     "imagem3": "https://blog.feelinimoveis.com.br/wp-content/uploads/2020/08/intro-ponte.jpg",
+    "video": "https://www.youtube.com/watch?v=9dKmCVcpTIo",
+    "videoDrone": "https://www.youtube.com/watch?v=bfP77y0frXw",
     "phone": "+55 48 3240-4407",
     "website": "https://pt.wikipedia.org/wiki/Ponte_Herc%C3%ADlio_Luz",
     "ticketprice": "Aberto ao Público",
-    "horario": "Aberto 24 horas",
-    "video": "https://www.youtube.com/watch?v=bfP77y0frXw"
+    "horario": "Aberto 24 horas"
   },
   {
     "id": 5,
@@ -100,6 +104,8 @@
     "imagem": "https://guiaviajarmelhor.com.br/wp-content/uploads/2021/07/praia-do-rosa-sc-3.jpg",
     "imagem2": "https://www.transportal.com.br/noticias/wp-content/uploads/2021/02/Piscina-natural-na-praia-do-Rosa.jpg",
     "imagem3": "https://hospedariadasbrisas.com.br/wp-content/uploads/2021/09/voce-sabe-a-origem-do-nome-praia-do-rosa.jpg",
+    "video": "https://www.youtube.com/watch?v=X-ShzahlWVU",
+    "videoDrone" "https://www.youtube.com/watch?v=FQVozRQfWSs",
     "phone": "+55 48 3355-8190",
     "ticketprice": "Aberto ao Público",
     "horario": "Aberto 24 horas",
